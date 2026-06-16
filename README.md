@@ -19,4 +19,4 @@ A responsive currency converter built using HTML, CSS, and JavaScript.
 
 ## Author
 
-Your Name
+Katariya Harshil Rakeshbhai
